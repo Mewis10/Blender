@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1349
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 105
+  controlID: 110
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 41
+  controlID: 40
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 42
+  controlID: 41
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -380,7 +380,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materiales
+    - Assets/Modelos (Fbx)
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -390,16 +390,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materiales
+  - Assets/Modelos (Fbx)
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\luisg\Downloads\Blender\BlenderScenario
+  m_LastProjectPath: C:\Users\HSuay\Documents\GitHub\Blender\BlenderScenario
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 25.99945}
-    m_SelectedIDs: d8ae0000
-    m_LastClickedID: 44760
-    m_ExpandedIDs: 
+    m_SelectedIDs: 9ce80000
+    m_LastClickedID: 59548
+    m_ExpandedIDs: 00000000aaad0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -428,7 +428,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000aaad0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -576,7 +576,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 14fbffff
+      m_ExpandedIDs: 6e36ffffbc39ffffde44ffffce47ffffd047ffff044fffffb453ffffb653ffffc458ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1082,9 +1082,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 14.749074, y: 1.2300076, z: 18.635826}
+    m_Target: {x: 2.3303297, y: -1.2504535, z: 13.80794}
     speed: 2
-    m_Value: {x: 14.749074, y: 1.2300076, z: 18.635826}
+    m_Value: {x: 2.3303297, y: -1.2504535, z: 13.80794}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1130,13 +1130,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.03278738, y: -0.7420133, z: 0.036387812, w: 0.6685956}
+    m_Target: {x: 0.06560956, y: -0.7801039, z: 0.083002344, w: 0.6166439}
     speed: 2
-    m_Value: {x: -0.03278738, y: 0.7420132, z: -0.036387812, w: -0.6685956}
+    m_Value: {x: -0.06560937, y: 0.7801017, z: -0.083002105, w: -0.6166421}
   m_Size:
-    m_Target: 10
+    m_Target: 12.156571
     speed: 2
-    m_Value: 10
+    m_Value: 12.156571
   m_Ortho:
     m_Target: 0
     speed: 2
